@@ -73,5 +73,7 @@ tags: article
 
 ## 참고문헌 및 출처:
 [1] Steam 차트 개요, https://store.steampowered.com/charts/
+
 [2] HowLongToBeat Stats 2020~2022, https://store.steampowered.com/charts/
+
 [3] 한국콘텐츠진흥원, 글로벌 게임산업 트렌드 2023년 1~2월호, https://www.kocca.kr/global/2023_1+2/download/%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EA%B2%8C%EC%9E%84%EC%82%B0%EC%97%85%20%ED%8A%B8%EB%A0%8C%EB%93%9C(2023%EB%85%84%201+2%EC%9B%94%ED%98%B8).pdf

@@ -1,20 +1,6 @@
-#
-# This file contains configuration flags to customize your site
-#
-
-# Name of your site (displayed in the header)
-name: John, Doe
-
-# Short bio or description (displayed in the header)
-description: Dolore non veniam ex pariatur est.
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
+name: Kimyeongmok
+description: 공학적 글쓰기와 이야기를 나누는 곳입니다.
 avatar:
-
-#
-# Flags below are optional
-#
-
 timezone: Asia/Seoul
 
 # Includes an icon in the footer for each username you enter
